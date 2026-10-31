@@ -1,0 +1,32 @@
+[
+  {
+    "id": "living-room",
+    "title": "Sink into puffy comfort – Aurora Sofa ad",
+    "description": "Watch the Couchpuffy Aurora three-seater sofa bring yellow comfort to a modern living room.",
+    "src": "/videos/ad-living-room.mp4",
+    "poster": "/images/video/ad-living-room.webp",
+    "duration": "0:06",
+    "iso": "PT6S",
+    "uploadDate": "2026-10-01"
+  },
+  {
+    "id": "dining",
+    "title": "Gather around something golden – Meridian Dining Table ad",
+    "description": "The Meridian solid oak dining table seats six and anchors every family dinner.",
+    "src": "/videos/ad-dining.mp4",
+    "poster": "/images/video/ad-dining.webp",
+    "duration": "0:06",
+    "iso": "PT6S",
+    "uploadDate": "2026-10-01"
+  },
+  {
+    "id": "bedroom",
+    "title": "Sleep in a cloud – Haven King Bed ad",
+    "description": "The Haven upholstered king bed frame turns your bedroom into a cosy retreat.",
+    "src": "/videos/ad-bedroom.mp4",
+    "poster": "/images/video/ad-bedroom.webp",
+    "duration": "0:06",
+    "iso": "PT6S",
+    "uploadDate": "2026-10-01"
+  }
+]
